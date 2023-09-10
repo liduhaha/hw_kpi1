@@ -1,0 +1,25 @@
+.singleBlock {
+    background-color: #EEE4DA;
+    border-radius: 6px;
+    width: 20vw;
+    height: 47.8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.blockImg {
+    width: 18vw;
+    height: auto;
+}

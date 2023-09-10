@@ -1,0 +1,16 @@
+.headBlock1 {
+    background-image: url("../../../../../assets/gallery/beauty.png");
+    border-radius: 6px;
+    width: 20vw;
+    height: 47.8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    box-sizing: border-box;
+}
+
+.headText {
+    padding: 15px;
+    font-size: 28px;
+    font-weight: bold;
+}
